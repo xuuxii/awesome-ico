@@ -8,8 +8,8 @@ A curated list of awesome blockahin projects.
 * [Ethereum](https://www.ethereum.org) - Ethereum is a decentralized platform for applications that run exactly as programmed without any chance of fraud, censorship or third-party interference
 * [QTUM](https://qtum.org/zh) - Combining a modified Bitcoin Core infrastructure with an intercompatible version of the Ethereum Virtual Machine (EVM)
 * [Aeternity Blockchain](https://www.aeternity.com) - Lightning Smart Contracts. Turing-Complete State-Channels. Decentralized Oracles.
-* [Tezos](https://www.tezos.com) - Tezos is a new decentralized blockchain that governs itself by establishing a true digital commonwealth
-* [Dfinity](https://dfinity.network) - DFINITY is a high performance decentralized cloud compute network that hosts EVM smart contracts
+* [Tezos](https://www.tezos.com) - Tezos is a new decentralized blockchain that governs itself by establishing a true digital commonwealth.
+* [Dfinity](https://dfinity.network) - DFINITY is a high performance decentralized cloud compute network that hosts EVM smart contracts.
 * [EOS](https://eos.io/) - EOS.IO software, a new blockchain operating system designed to support commercial-scale decentralized applications.
 * [Zcash](https://z.cash/) - Zcash is the first open, permissionless cryptocurrency that can fully protect the privacy of transactions using zero-knowledge cryptography.
 * [IOTA](https://iota.org/) - IOTA is a distributed ledger for the Internet of Things. The first ledger with microtransactions without fees as well as secure data transfer. Quantum proof.
@@ -28,6 +28,7 @@ A curated list of awesome blockahin projects.
 * [BAT](https://basicattentiontoken.org/) - A decentralized, transparent digital ad exchange based on Ethereum Blockchain.
 * [Augur](https://augur.net/) - Augur is a decentralized prediction market built on the Ethereum blockchain
 * [Gnosis](https://gnosis.pm/) - Gnosis is the platform for the next generation of prediction market applications.
+* [Wings](https://www.wings.ai) - WINGS DAO Price Discovery & Promotion.
 * [Byteball](https://byteball.org/) - Risk-free conditional smart payments. Byteball allows you to do something that traditional currencies can't: conditional payments.
 
 ## Cross Chain
