@@ -36,7 +36,6 @@ A curated list of awesome blockahin projects.
 * [Cosmos](https://cosmos.network/) - Cosmos is a network and a framework for interoperability between blockchains.
 * [Polkadot](https://polkadot.io/) - A heterogeneous extensible multi-chain.
 
-
-
-
+## Blogs
+* [unichain blog](http://blog.unichain.io/) - Comprehensive technical analysis on blockchain.
 
