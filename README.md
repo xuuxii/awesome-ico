@@ -37,5 +37,5 @@ A curated list of awesome blockahin projects.
 * [Polkadot](https://polkadot.io/) - A heterogeneous extensible multi-chain.
 
 ## Blogs
-* [unichain blog](http://blog.unichain.io/) - Comprehensive technical analysis on blockchain.
+* [unichain labs](http://blog.unichain.io/) - Comprehensive technical analysis on blockchain.(Chinese)
 
