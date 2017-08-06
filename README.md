@@ -30,6 +30,8 @@ A curated list of awesome blockahin projects.
 * [Gnosis](https://gnosis.pm/) - Gnosis is the platform for the next generation of prediction market applications.
 * [Wings](https://www.wings.ai) - WINGS DAO Price Discovery & Promotion.
 * [Byteball](https://byteball.org/) - Risk-free conditional smart payments. Byteball allows you to do something that traditional currencies can't: conditional payments.
+* [Decentraland](https://decentraland.org/) - Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize content and applications.
+
 
 ## Cross Chain
 
