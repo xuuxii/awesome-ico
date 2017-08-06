@@ -1,6 +1,6 @@
 # Awesome ICO
 
-A curated list of awesome blockahin projects.
+A curated list of awesome blockahin projects，which consitute the blockchain ecology.
 
 ## New Blockchain
 
@@ -31,7 +31,7 @@ A curated list of awesome blockahin projects.
 * [Wings](https://www.wings.ai) - WINGS DAO Price Discovery & Promotion.
 * [Byteball](https://byteball.org/) - Risk-free conditional smart payments. Byteball allows you to do something that traditional currencies can't: conditional payments.
 * [Decentraland](https://decentraland.org/) - Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize content and applications.
-
+* [STOX](https://www.stox.com/en/) - Stox is an open source, Bancor based prediction market platform.
 
 ## Cross Chain
 
