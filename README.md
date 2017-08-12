@@ -33,7 +33,8 @@ A curated list of awesome blockahin projects，which consitute the blockchain ec
 * [Decentraland](https://decentraland.org/) - Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize content and applications.
 * [STOX](https://www.stox.com/en/) - Stox is an open source, Bancor based prediction market platform.
 * [Coindash](https://www.coindash.io/) - A Crypto Based Social Trading Platform.
-* [KyberNetwork](https://kyber.network/) KyberNetwork is a new system which allows the exchange and conversion of digital assets. 
+* [KyberNetwork](https://kyber.network/) KyberNetwork is a new system which allows the exchange and conversion of digital assets.
+* [Bancor](https://www.bancor.network/) Bancor Protocol is a standard for a new generation of cryptocurrencies called Smart Tokens.
 
 ## Cross Chain
 
