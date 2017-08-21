@@ -2,6 +2,8 @@
 
 A curated list of awesome blockahin projects，which consitute the blockchain ecology.
 
+(Warning: I DO NOT ENDORSE ANY PROJECTS BELOW, JUST FOR TECHNICAL PURPOSE.)
+
 ## New Blockchain
 
 * [Bitcoin](https://bitcoin.org) - Bitcoin is an innovative payment network and a new kind of money.
