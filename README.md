@@ -15,6 +15,7 @@ A curated list of awesome blockahin projects，which consitute the blockchain ec
 * [EOS](https://eos.io/) - EOS.IO software, a new blockchain operating system designed to support commercial-scale decentralized applications.
 * [Zcash](https://z.cash/) - Zcash is the first open, permissionless cryptocurrency that can fully protect the privacy of transactions using zero-knowledge cryptography.
 * [IOTA](https://iota.org/) - IOTA is a distributed ledger for the Internet of Things. The first ledger with microtransactions without fees as well as secure data transfer. Quantum proof.
+* [4SmartCity](https://www.4smartcity.com/) - 4SmartCity.com is blockchian based Data Exchange platform.
 
 
 ## DApps
